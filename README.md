@@ -1,2 +1,3 @@
 # CPP
-list of codes performed in 4th semester under supervision of mr mohan m
+list of codes performed in the 4th semester under the supervision of Mr Mohan M
+ayo pray.
